@@ -39,7 +39,7 @@ public class ContentFragment extends Fragment {
     public void onResume() {
         super.onResume();
 
-        String username;
+        String username = "";
 
         //TODO Get the username from the preferences
 
